@@ -16,15 +16,19 @@ To get a local copy up and running, follow these steps:
 2. scan qr code from CMD
 
 ## Tech Stack
-![React Native](https://img.shields.io/badge/React_Native-Latest-blue)
-![Node.js](https://img.shields.io/badge/Node.js-20.11.0-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-Latest-brightgreen)
-![Mongoose](https://img.shields.io/badge/Mongoose-Latest-yellow)
-![Express](https://img.shields.io/badge/Express-Latest-lightgrey)
-![Expo](https://img.shields.io/badge/Expo-Latest-purple)
-![React Navigation](https://img.shields.io/badge/React_Navigation-Latest-blue)
-![AsyncStorage](https://img.shields.io/badge/AsyncStorage-Latest-green)
-![React Vector Icons](https://img.shields.io/badge/React_Vector_Icons-Latest-orange)
+
+- ![React Native](https://img.shields.io/badge/React_Native-Latest-blue)
+- ![Node.js](https://img.shields.io/badge/Node.js-20.11.0-green)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-Latest-brightgreen)
+- ![Mongoose](https://img.shields.io/badge/Mongoose-Latest-yellow)
+- ![Express](https://img.shields.io/badge/Express-Latest-lightgrey)
+- ![Expo](https://img.shields.io/badge/Expo-Latest-purple)
+- ![React Navigation](https://img.shields.io/badge/React_Navigation-Latest-blue)
+- ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-Latest-green)
+- ![React Vector Icons](https://img.shields.io/badge/React_Vector_Icons-Latest-orange)
+- ![JWT](https://img.shields.io/badge/JWT-Latest-blue)
+- ![bcrypt](https://img.shields.io/badge/bcrypt-Latest-blue)
+
 
 # Project Features
 
