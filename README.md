@@ -5,17 +5,17 @@ This project is aimed at providing a comprehensive solution for building a React
 ## Getting Started
 To get a local copy up and running, follow these steps:
 
-### start app server
+👑 start app server 
 1. Navigate to the project directory: `mobile`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
    
-### start node server
+❤️ start node server
 1. Navigate to the project directory: `server`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
-## Expo project
+🌲 start Expo project
 1. download Expo Go app from android
 2. scan qr code from CMD
 
@@ -58,23 +58,23 @@ To get a local copy up and running, follow these steps:
 - **bcrypt:** Secure password hashing function.
 
 
-## API Endpoints
+## API Endpoints ✅
 The following endpoints are available:
 
-## Auth API
-- **POST /api/register**: Endpoint for registering a new user.
-- **GET /api/login**: Endpoint for user login authentication.
-- **PUT /api/update**: Endpoint for updating user information.
+AUTH API ⭐
+- **POST /api/auth/register**: Endpoint for registering a new user.
+- **GET /api/auth/login**: Endpoint for user login authentication.
+- **PUT /api/auth/update**: Endpoint for updating user information.
 
-## CRUD API
-- **GET /api/feed**: Endpoint to retrieve all posts from the feed.
-- **POST /api/create**: Endpoint to create a new post.
-- **GET /api/read-all**: Endpoint to retrieve all posts.
-- **GET /api/read/:id**: Endpoint to retrieve a specific post by ID.
-- **PUT /api/update/:id**: Endpoint to update a specific post by ID.
-- **DELETE /api/:id**: Endpoint to delete a specific post by ID.
-- **DELETE /api/delete-all**: Endpoint to delete all posts.
+CURD API 💥
+- **GET /api/curd/feed**: Endpoint to retrieve all posts from the feed.
+- **POST /api/curd/create**: Endpoint to create a new post.
+- **GET /api/curd/read-all**: Endpoint to retrieve all posts.
+- **GET /api/curd/read/:id**: Endpoint to retrieve a specific post by ID.
+- **PUT /api/curd/update/:id**: Endpoint to update a specific post by ID.
+- **DELETE /api/curd/delete:id**: Endpoint to delete a specific post by ID.
+- **DELETE /api/curd/delete-all**: Endpoint to delete all posts.
 
 
-## Contributing
+## Contributing 🤝
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
