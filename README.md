@@ -1,7 +1,7 @@
 ## Getting Started
 To get a local copy up and running, follow these steps:
 
-### start app
+### start app server
 1. Navigate to the project directory: `mobile`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
@@ -37,13 +37,33 @@ To get a local copy up and running, follow these steps:
   
 ## Dependencies
 
-- **React Native:** A popular framework for building native applications using React.
-- **Expo:** A set of tools and services for building and deploying React Native applications quickly and easily.
-- **Node.js:** A JavaScript runtime built on Chrome's V8 JavaScript engine for building scalable network applications.
-- **MongoDB:** A document-oriented NoSQL database for modern application development.
-- **Mongoose:** An elegant MongoDB object modeling tool designed to work in an asynchronous environment.
-- **Express:** A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-- **React Navigation:** Routing and navigation library for React Native apps.
-- **React Native AsyncStorage:** A simple, asynchronous, persistent, key-value storage system for React Native.
-- **React Vector Icons:** A set of customizable icons for React Native applications.
-   
+- **React Native:** Framework for native app development with React.
+- **Expo:** Tools for rapid React Native app deployment.
+- **Node.js:** Runtime for scalable network applications.
+- **MongoDB:** NoSQL database for modern apps.
+- **Mongoose:** MongoDB object modeling for Node.js.
+- **Express:** Minimal web app framework for Node.js.
+- **React Navigation:** Routing library for React Native.
+- **AsyncStorage:** Simple persistent storage for React Native.
+- **React Vector Icons:** Customizable icons for React Native.
+- **JWT:** Secure data transmission standard.
+- **bcrypt:** Secure password hashing function.
+
+
+## API Endpoints
+The following endpoints are available:
+
+## Auth API
+- **POST /api/register**: Endpoint for registering a new user.
+- **GET /api/login**: Endpoint for user login authentication.
+- **PUT /api/update**: Endpoint for updating user information.
+
+## CRUD API
+- **GET /api/feed**: Endpoint to retrieve all posts from the feed.
+- **POST /api/create**: Endpoint to create a new post.
+- **GET /api/read-all**: Endpoint to retrieve all posts.
+- **GET /api/read/:id**: Endpoint to retrieve a specific post by ID.
+- **PUT /api/update/:id**: Endpoint to update a specific post by ID.
+- **DELETE /api/:id**: Endpoint to delete a specific post by ID.
+- **DELETE /api/delete-all**: Endpoint to delete all posts.
+
