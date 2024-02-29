@@ -29,9 +29,7 @@ To get a local copy up and running, follow these steps:
 - ![Expo](https://img.shields.io/badge/Expo-Latest-purple)
 - ![React Navigation](https://img.shields.io/badge/React_Navigation-Latest-blue)
 - ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-Latest-green)
-- ![React Vector Icons](https://img.shields.io/badge/React_Vector_Icons-Latest-orange)
 - ![JWT](https://img.shields.io/badge/JWT-Latest-blue)
-- ![bcrypt](https://img.shields.io/badge/bcrypt-Latest-blue)
 
 
 ## 🍁 Project Features
