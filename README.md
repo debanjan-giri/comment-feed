@@ -1,3 +1,7 @@
+## About My Project
+
+This project is aimed at providing a comprehensive solution for building a React Native application with backend support. It includes features such as user authentication, CRUD operations for managing posts, navigation, and more. With a robust tech stack and well-defined API endpoints, this project offers a solid foundation for developing a fully functional mobile application.
+
 ## Getting Started
 To get a local copy up and running, follow these steps:
 
@@ -71,3 +75,6 @@ The following endpoints are available:
 - **DELETE /api/:id**: Endpoint to delete a specific post by ID.
 - **DELETE /api/delete-all**: Endpoint to delete all posts.
 
+
+## Contributing
+Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
