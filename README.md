@@ -1,8 +1,8 @@
-## About My Project
+## 🔥 About My Project
 
 This project is aimed at providing a comprehensive solution for building a React Native application with backend support. It includes features such as user authentication, CRUD operations for managing posts, navigation, and more. With a robust tech stack and well-defined API endpoints, this project offers a solid foundation for developing a fully functional mobile application.
 
-## Getting Started
+## 😁 Getting Started
 To get a local copy up and running, follow these steps:
 
 👑 start app server 
@@ -19,7 +19,7 @@ To get a local copy up and running, follow these steps:
 1. download Expo Go app from android
 2. scan qr code from CMD
 
-## Tech Stack
+## 🌻Tech Stack
 
 - ![React Native](https://img.shields.io/badge/React_Native-Latest-blue)
 - ![Node.js](https://img.shields.io/badge/Node.js-20.11.0-green)
@@ -34,7 +34,7 @@ To get a local copy up and running, follow these steps:
 - ![bcrypt](https://img.shields.io/badge/bcrypt-Latest-blue)
 
 
-# Project Features
+# 🍁 Project Features
 
 - **Login/Register:** Secure authentication system for user accounts.
 - **Validation:** Robust data validation implemented on both server and client sides.
@@ -43,7 +43,7 @@ To get a local copy up and running, follow these steps:
 - **View Other User Posts:** Explore and engage with posts from other users
 
   
-## Dependencies
+## ☔ Dependencies
 
 - **React Native:** Framework for native app development with React.
 - **Expo:** Tools for rapid React Native app deployment.
@@ -58,15 +58,15 @@ To get a local copy up and running, follow these steps:
 - **bcrypt:** Secure password hashing function.
 
 
-## API Endpoints ✅
+## ✅ API Endpoints
 The following endpoints are available:
 
-AUTH API ⭐
+⭐ AUTH API
 - **POST /api/auth/register**: Endpoint for registering a new user.
 - **GET /api/auth/login**: Endpoint for user login authentication.
 - **PUT /api/auth/update**: Endpoint for updating user information.
 
-CURD API 💥
+🌞 CURD API
 - **GET /api/curd/feed**: Endpoint to retrieve all posts from the feed.
 - **POST /api/curd/create**: Endpoint to create a new post.
 - **GET /api/curd/read-all**: Endpoint to retrieve all posts.
@@ -76,5 +76,5 @@ CURD API 💥
 - **DELETE /api/curd/delete-all**: Endpoint to delete all posts.
 
 
-## Contributing 🤝
+## 👋 Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
