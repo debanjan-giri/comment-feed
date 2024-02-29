@@ -34,7 +34,7 @@ To get a local copy up and running, follow these steps:
 - ![bcrypt](https://img.shields.io/badge/bcrypt-Latest-blue)
 
 
-# 🍁 Project Features
+## 🍁 Project Features
 
 - **Login/Register:** Secure authentication system for user accounts.
 - **Validation:** Robust data validation implemented on both server and client sides.
